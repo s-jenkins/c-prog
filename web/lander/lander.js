@@ -25,5 +25,5 @@ function myMove() {
     elem.style.visibility = "visible";
     clearInterval(id);
     id = setInterval(frame, 50);
-
   }
+// --------------------
